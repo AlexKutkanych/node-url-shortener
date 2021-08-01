@@ -1,0 +1,6 @@
+{
+  "port": 3001,
+  "jwtSecret": "secret jwt string",
+  "mongoUrl": "mongodb+srv://Alex:test123@cluster0.qrw85.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "baseUrl": "https://localhost:3001"
+}
